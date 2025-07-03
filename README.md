@@ -1,7 +1,9 @@
 # My Google AI Studio Web App
 
 This project is a simple **Node.js + HTML** web app that uses the **Google AI Studio API** to demonstrate AI text generation on a webpage.
-It is designed to show a cleaner separation of frontend and backend responsibilities compared to an older, purely client-side approach "https://github.com/mks-mia/healthweb". This website focuses primarily on functionality, so the user interface is intentionally minimal.
+It is designed to show a cleaner separation of frontend and backend responsibilities compared to an older, purely client-side approach. This website focuses primarily on functionality, so the user interface is intentionally minimal.
+
+link to previous web app: https://github.com/mks-mia/healthweb
 
 ## Features
 
@@ -17,7 +19,7 @@ It is designed to show a cleaner separation of frontend and backend responsibili
 - **.env** is listed in `.gitignore` and is **NOT** pushed to GitHub.
 - This prevents leaking your API key in a public repo.
 
-## Difference from the Previous Version
+## Difference from the Previous Web App
 
 Previously, I built a simpler webpage that:
 
